@@ -1,4 +1,4 @@
-<h5 align="left">¡Hey! Bienvenido a mi perfil.</h5>
+<h5 align="left">¡Hey! ¡Bienvenido a mi perfil!</h5>
 
 ###
 
@@ -6,11 +6,13 @@
 
 ###
 
-<h6 align="right">y esté readme, es un resumen de mi yo profesional (?)</h6>
+<h6 align="right">Y este readme, es un resumen de mi yo profesional... (?)</h6>
 
 ###
 
-<h3 align="center">Desarrollador Junior en constante aprendizaje para darle la mejor vida a mi perro.</h3>
+<h3 align="center">
+  Desarrollador Junior en constante aprendizaje para darle la mejor vida a mi perro.
+</h3>
 
 ###
 
@@ -20,7 +22,9 @@
 
 ###
 
-<p align="left">Actualmente trabajo (y siento confianza) con estás tecnologías. ¡Siempre con margen de mejorar y agregar nuevas habilidades!</p>
+<p align="left">Actualmente trabajo (y siento confianza) con estás tecnologías. ¡Siempre con margen de mejorar y agregar nuevas habilidades!
+  ¡Mi contacto esta debajo del muchacho canino!
+</p>
 
 ###
 
